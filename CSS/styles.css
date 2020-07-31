@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     margin-top: 3vh;
     margin-bottom: 8vh;
     font-family: 'Lato', sans-serif;
@@ -22,12 +22,12 @@ h1 {
 
 span {
     color: #be5683;
-    font-size: 4rem;
+    font-size: 3rem;
     font-style: italic;
 }
 
 p {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     padding: 1.5rem;
     font-family: 'Poppins', sans-serif;
 }
